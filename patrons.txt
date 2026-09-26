@@ -3,3 +3,4 @@
 # Tiers: 1 = Silver Supporter, 2 = Gold Patron, 3 = Mithril Patron, 4 = Adamantite Benefactor
 # Lines starting with # are ignored. Names are matched ignoring upper/lower case.
 # Removing someone does NOT take their rewards away (they keep what they earned).
+quesito666|4
