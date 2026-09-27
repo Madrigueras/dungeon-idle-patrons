@@ -5,3 +5,4 @@
 # Removing someone does NOT take their rewards away (they keep what they earned).
 Cultist V|1
 quesito666|4
+Armegeddon|4
